@@ -1,4 +1,4 @@
-# Smart Home Energy Optimizer 🌍💡
+# Smart Home Energy Optimiser 🌍💡
 
 Optimise home energy consumption with AI-driven predictions and actionable recommendations. Built with **Streamlit**, **joblib**, and **pandas**.
 
